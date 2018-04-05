@@ -29,7 +29,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.4</version>
-        <relativePath />
+        <relativePath>../plugin-pom/pom.xml</relativePath>
     </parent>
     <groupId>org.jenkins-ci.plugins.workflow</groupId>
     <artifactId>workflow-cps</artifactId>
